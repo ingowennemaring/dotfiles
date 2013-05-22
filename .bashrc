@@ -23,14 +23,20 @@ alias grep='grep --color=auto'
 # aliases: qfm/git
 alias push='git push origin --all'
 alias ga='git add'
+alias gaa='git add -A'
+alias gc='git commit -m'
+alias gp='git push'
 alias gs='git status'
 
 alias halt='echo Nein, Idiot'
 
+# aliases
 alias cw='compass watch'
 alias qfm='cd /Users/martinwolf/Dropbox/Websites/quote.fm/html'
 alias taw='cd /Users/martinwolf/Dropbox/Websites/theamazingweb.net/html/wp-content/themes/theamazingweb_v2'
 alias wl='cd /Users/martinwolf/Dropbox/Websites/watched.li/watchedli-frontend'
+
+# aliases: superReal
 alias sr='cd /Users/martinwolf/Dropbox/Websites/superReal'
 alias wls='cd /Users/martinwolf/Dropbox/Websites/superReal/wls'
 
